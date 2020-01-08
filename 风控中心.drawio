@@ -1,1 +1,48 @@
-<mxfile host="www.draw.io" modified="2020-01-08T00:45:01.277Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" version="12.4.9" etag="ZvEU_QPcyrke5ztW3O1d" type="github"><diagram id="IV0gtR9qt2C5YhMelClP">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-01-08T00:53:00.490Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="Bg21ANNG4NZMPfJEPh4Z" version="12.4.9" type="github">
+  <diagram id="IV0gtR9qt2C5YhMelClP" name="第 1 页">
+    <mxGraphModel dx="1186" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="z4cfsqJoMu1uItzRfGyK-11" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="440" y="120" width="180" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="z4cfsqJoMu1uItzRfGyK-1" value="组织" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="120" width="150" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="z4cfsqJoMu1uItzRfGyK-2" value="指标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="266" y="120" width="150" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="z4cfsqJoMu1uItzRfGyK-4" value="字段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="160" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="z4cfsqJoMu1uItzRfGyK-5" value="条件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="160" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="z4cfsqJoMu1uItzRfGyK-7" value="影响因素" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="90" y="60" width="110" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="z4cfsqJoMu1uItzRfGyK-8" value="" style="line;strokeWidth=2;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="90" y="230" width="840" height="10" as="geometry"/>
+        </mxCell>
+        <mxCell id="z4cfsqJoMu1uItzRfGyK-9" value="场景一：数据过滤" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="90" y="260" width="220" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="z4cfsqJoMu1uItzRfGyK-10" value="必要条件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="100" y="340" width="70" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="z4cfsqJoMu1uItzRfGyK-12" value="风险等级" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="450" y="140" width="60" height="10" as="geometry"/>
+        </mxCell>
+        <mxCell id="z4cfsqJoMu1uItzRfGyK-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="z4cfsqJoMu1uItzRfGyK-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="600" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z4cfsqJoMu1uItzRfGyK-13" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;b&gt;组织&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;Section 1.1&lt;br&gt;Section 1.2&lt;br&gt;Section 1.3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;Section 2.1&lt;br&gt;Section 2.2&lt;br&gt;Section 2.3&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="110" y="380" width="160" height="140" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
